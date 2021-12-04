@@ -12,7 +12,7 @@ Some of my deployed Projects :
 - Florena Florist v0.2 - Vue Version : https://iprojectfarandi.web.app
 - Fruit Panda - React Version : https://fruitpanda-e55b9.web.app
 - Fruit Panda - Expo Version : https://expo.dev/@explorevalveer/fruitpandamobile
-- Lets Meet - Vue Version : https://lets-meet-c21c6.web.app/
+- Lets Meet : https://lets-meet-c21c6.web.app/
 
 My Skills :
 - Programming Language : JS, TS, C#, SQL, HTML
@@ -24,3 +24,7 @@ My Skills :
 Currently, I'm studying :
 - PHP
 - Java
+
+Ongoing Projects with EV-Software :
+- Florena Florist v0.3
+- Job Hunter
