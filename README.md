@@ -21,6 +21,6 @@ My Skills :
 - Database : PostgreSQL, MongoDB
 - Version Control : Github
 
-Right now, I currently studying :
+Currently, I'm studying :
 - PHP
 - Java
