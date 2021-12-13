@@ -4,7 +4,7 @@ My name is
 - Indonesian : Farandi Angesti
 - Chinese : Djiauw Chao Chong / 饶超崇
 
-I currently work for PT Cerberus Sinergi Datasistem as a Web Developer,
+I currently work for PT Barito Integra Teknologi as a Frontend Developer,
 I also have a Computer Hardware Business i.e. Explore Valveer Hardware.
 
 Some of my deployed Projects :
